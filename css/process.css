@@ -1,6 +1,7 @@
 body {
     font-family: 'Microsoft JhengHei';
-    background: linear-gradient(rgba(55, 118, 29, 0.8), #37761d, #37761d, #37761d, rgba(55, 118, 29, 0.8));
+    /*background: linear-gradient(rgba(55, 118, 29, 0.8), #37761d, #37761d, #37761d, rgba(55, 118, 29, 0.8));*/
+    background-color: #37761D !important;
 }
 
 section {
