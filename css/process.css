@@ -270,7 +270,7 @@ ul.all-watch li {
 
 @media (max-width: 500px) {
     .brand-logo ul li {
-        width: 50%;
+        /*width: 50%;*/
     }
 }
 
